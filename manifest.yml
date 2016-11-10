@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Nodejs-Study-kubosawa
+  host: Nodejs-Study-kubosawa
+  disk_quota: 1024M
